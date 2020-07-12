@@ -1,4 +1,4 @@
-# QUIZ EM FLUTTEr
+# QUIZ EM FLUTTER
 
 Um primeiro e simples projeto com objetivo de entender sobre a ferramenta Flutter.
 
